@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldevelopment" alt="vishaldevelopment" /></a> </p>
 
-- 🔭 I’m currently working on [Hadda App ](https://github.com/VishalDevelopment/Moms-Recipe)
+- 🔭 I’m currently working on [Hadda App ](https://github.com/VishalDevelopment/HADDA_APP)
 
 - 🌱 I’m currently learning **Android App Development**
 
