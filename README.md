@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldevelopment" alt="vishaldevelopment" /></a> </p>
 
-- 🔭 I’m currently working on [Hadda App ](https://github.com/VishalDevelopment/HADDA_APP)
+- 🔭 I’m currently working on [ShoppZilla ](https://github.com/VishalDevelopment/ShoppZilla)
 
 - 🌱 I’m currently learning **Android App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishalDevelopment?tab=repositories](https://github.com/VishalDevelopment?tab=repositories)
 
-- 💬 Ask me about **Android Development (Xml,Kotlin)**
+- 💬 Ask me about **Android Development (Xml , Jetpack Compose , Kotlin , KMP )**
 
-- 📫 How to reach me **ug41222110@desu.ac.in**
+- 📫 How to reach me **VishalGoswami165342@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
